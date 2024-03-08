@@ -4,6 +4,8 @@ static class Program
 {
     static void Main(string[] args)
     {
+
+        //hdmi
         //Console.WriteLine("Ingrese su primera nota: ");
         //int nota1 = int.Parse(Console.ReadLine());
 
