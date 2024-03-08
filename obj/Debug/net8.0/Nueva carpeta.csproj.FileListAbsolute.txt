@@ -1,0 +1,28 @@
+C:\Users\ALUMNO\Desktop\Nueva carpeta\obj\Debug\net8.0\Nueva carpeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\Desktop\Nueva carpeta\obj\Debug\net8.0\Nueva carpeta.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Desktop\Nueva carpeta\obj\Debug\net8.0\Nueva carpeta.AssemblyInfo.cs
+C:\Users\ALUMNO\Desktop\Nueva carpeta\obj\Debug\net8.0\Nueva carpeta.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\Nueva carpeta\bin\Debug\net8.0\Nueva carpeta.exe
+C:\Users\ALUMNO\Desktop\Nueva carpeta\bin\Debug\net8.0\Nueva carpeta.deps.json
+C:\Users\ALUMNO\Desktop\Nueva carpeta\bin\Debug\net8.0\Nueva carpeta.runtimeconfig.json
+C:\Users\ALUMNO\Desktop\Nueva carpeta\bin\Debug\net8.0\Nueva carpeta.dll
+C:\Users\ALUMNO\Desktop\Nueva carpeta\bin\Debug\net8.0\Nueva carpeta.pdb
+C:\Users\ALUMNO\Desktop\Nueva carpeta\obj\Debug\net8.0\Nueva carpeta.dll
+C:\Users\ALUMNO\Desktop\Nueva carpeta\obj\Debug\net8.0\refint\Nueva carpeta.dll
+C:\Users\ALUMNO\Desktop\Nueva carpeta\obj\Debug\net8.0\Nueva carpeta.pdb
+C:\Users\ALUMNO\Desktop\Nueva carpeta\obj\Debug\net8.0\Nueva carpeta.genruntimeconfig.cache
+C:\Users\ALUMNO\Desktop\Nueva carpeta\obj\Debug\net8.0\ref\Nueva carpeta.dll
+C:\Users\ALUMNO\Desktop\tarea en clase promedio\bin\Debug\net8.0\Nueva carpeta.exe
+C:\Users\ALUMNO\Desktop\tarea en clase promedio\bin\Debug\net8.0\Nueva carpeta.deps.json
+C:\Users\ALUMNO\Desktop\tarea en clase promedio\bin\Debug\net8.0\Nueva carpeta.runtimeconfig.json
+C:\Users\ALUMNO\Desktop\tarea en clase promedio\bin\Debug\net8.0\Nueva carpeta.dll
+C:\Users\ALUMNO\Desktop\tarea en clase promedio\bin\Debug\net8.0\Nueva carpeta.pdb
+C:\Users\ALUMNO\Desktop\tarea en clase promedio\obj\Debug\net8.0\Nueva carpeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\Desktop\tarea en clase promedio\obj\Debug\net8.0\Nueva carpeta.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Desktop\tarea en clase promedio\obj\Debug\net8.0\Nueva carpeta.AssemblyInfo.cs
+C:\Users\ALUMNO\Desktop\tarea en clase promedio\obj\Debug\net8.0\Nueva carpeta.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\tarea en clase promedio\obj\Debug\net8.0\Nueva carpeta.dll
+C:\Users\ALUMNO\Desktop\tarea en clase promedio\obj\Debug\net8.0\refint\Nueva carpeta.dll
+C:\Users\ALUMNO\Desktop\tarea en clase promedio\obj\Debug\net8.0\Nueva carpeta.pdb
+C:\Users\ALUMNO\Desktop\tarea en clase promedio\obj\Debug\net8.0\Nueva carpeta.genruntimeconfig.cache
+C:\Users\ALUMNO\Desktop\tarea en clase promedio\obj\Debug\net8.0\ref\Nueva carpeta.dll
