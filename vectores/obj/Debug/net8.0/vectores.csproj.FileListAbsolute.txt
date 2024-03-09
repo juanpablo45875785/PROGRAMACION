@@ -1,0 +1,15 @@
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\obj\Debug\net8.0\vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\obj\Debug\net8.0\vectores.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\obj\Debug\net8.0\vectores.AssemblyInfo.cs
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\obj\Debug\net8.0\vectores.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\obj\Debug\net8.0\vectores.sourcelink.json
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\bin\Debug\net8.0\vectores.exe
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\bin\Debug\net8.0\vectores.deps.json
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\bin\Debug\net8.0\vectores.runtimeconfig.json
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\bin\Debug\net8.0\vectores.dll
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\bin\Debug\net8.0\vectores.pdb
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\obj\Debug\net8.0\vectores.dll
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\obj\Debug\net8.0\refint\vectores.dll
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\obj\Debug\net8.0\vectores.pdb
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\obj\Debug\net8.0\vectores.genruntimeconfig.cache
+C:\Users\ALUMNO\Desktop\PROGRAMACION\vectores\obj\Debug\net8.0\ref\vectores.dll
