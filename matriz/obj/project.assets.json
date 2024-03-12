@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JuanPabloTapeosiChamo\\PROGRAMACION\\Nueva carpeta.csproj",
-      "projectName": "Nueva carpeta",
-      "projectPath": "D:\\JuanPabloTapeosiChamo\\PROGRAMACION\\Nueva carpeta.csproj",
+      "projectUniqueName": "D:\\JuanPabloTapeosiChamo\\PROGRAMACION\\matriz\\matriz.csproj",
+      "projectName": "matriz",
+      "projectPath": "D:\\JuanPabloTapeosiChamo\\PROGRAMACION\\matriz\\matriz.csproj",
       "packagesPath": "C:\\Users\\ALUMNO\\.nuget\\packages\\",
-      "outputPath": "D:\\JuanPabloTapeosiChamo\\PROGRAMACION\\obj\\",
+      "outputPath": "D:\\JuanPabloTapeosiChamo\\PROGRAMACION\\matriz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALUMNO\\AppData\\Roaming\\NuGet\\NuGet.Config"

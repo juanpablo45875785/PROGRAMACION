@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Nueva carpeta")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("matriz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80f87d71cc1e2dec5a3c07b3362c80a9322aa842")]
-[assembly: System.Reflection.AssemblyProductAttribute("Nueva carpeta")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Nueva carpeta")]
+[assembly: System.Reflection.AssemblyProductAttribute("matriz")]
+[assembly: System.Reflection.AssemblyTitleAttribute("matriz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
