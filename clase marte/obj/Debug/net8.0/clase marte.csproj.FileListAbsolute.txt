@@ -1,0 +1,15 @@
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\obj\Debug\net8.0\clase marte.GeneratedMSBuildEditorConfig.editorconfig
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\obj\Debug\net8.0\clase marte.AssemblyInfoInputs.cache
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\obj\Debug\net8.0\clase marte.AssemblyInfo.cs
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\obj\Debug\net8.0\clase marte.csproj.CoreCompileInputs.cache
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\obj\Debug\net8.0\clase marte.sourcelink.json
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\bin\Debug\net8.0\clase marte.exe
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\bin\Debug\net8.0\clase marte.deps.json
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\bin\Debug\net8.0\clase marte.runtimeconfig.json
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\bin\Debug\net8.0\clase marte.dll
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\bin\Debug\net8.0\clase marte.pdb
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\obj\Debug\net8.0\clase marte.dll
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\obj\Debug\net8.0\refint\clase marte.dll
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\obj\Debug\net8.0\clase marte.pdb
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\obj\Debug\net8.0\clase marte.genruntimeconfig.cache
+D:\JuanPabloTapeosiChamo\PROGRAMACION\clase marte\obj\Debug\net8.0\ref\clase marte.dll
