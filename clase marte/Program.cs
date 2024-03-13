@@ -16,8 +16,16 @@ static class Program{
     }
     static void llenarVectorPalabra(string oracion){
         string[] palabras = oracion.Split(' ');
+
         imprimirVectorGeneral(palabras);
     } 
+    static T[] vectorgenerador<T>(T[] palabra){
+        T[] vectorInvertido = new T[vector.Length];
+        for(int i=0; i< vector.Length; i++){
+            vectorInvertido[i] = vector[vector.Length -1 -i]; 
+        }
+        return vectorInvertido;
+    }
     static void llenarVectorimpar(int cantidad){
         int[] vector = new int[cantidad];
         int numero= 1;
