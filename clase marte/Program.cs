@@ -2,11 +2,22 @@
 static class Program{
     static void Main(string[] args)
     {
-        //llenarVector(6);
-        Console.WriteLine("dame una palabra: ");
+        //llenarVectorPrimo(6);
+
+        /*Console.WriteLine("dame una palabra: ");
         string palabra = Console.ReadLine();
         llenarVectorstring(palabra);
+        Console.WriteLine("dame una palabra: ");*/
+        Console.WriteLine("escribe una oracion: ");
+        string pedir = Console.ReadLine();
+        llenarVectorPalabra(pedir);
+
+
     }
+    static void llenarVectorPalabra(string oracion){
+        string[] palabras = oracion.Split(' ');
+        imprimirVectorGeneral(palabras);
+    } 
     static void llenarVectorimpar(int cantidad){
         int[] vector = new int[cantidad];
         int numero= 1;
@@ -29,7 +40,7 @@ static class Program{
             vector[i]=numero;
             numero++;
         }
-        imprimirVector(vector);
+        imprimirVectorGeneral(vector);
     }
     static bool esPrimo(int numero){
         if(numero <= 1){
@@ -67,6 +78,12 @@ static class Program{
     static void imprimirVectorletras(char[] letras){
         foreach(char letra in letras){
             Console.Write(letra + " ");
+        }
+        Console.WriteLine();
+    }
+    static void imprimirVectorGeneral <T>(T[] vector){
+        foreach(T elemento in vector){
+            Console.Write(elemento + " ");
         }
         Console.WriteLine();
     }
