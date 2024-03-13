@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\User\\Desktop\\vectores\\vectores.csproj",
+      "projectUniqueName": "E:\\User\\Desktop\\ejemplos de matriz\\PROGRAMACION\\ejemplo de matriz 1\\vectores.csproj",
       "projectName": "vectores",
-      "projectPath": "E:\\User\\Desktop\\vectores\\vectores.csproj",
+      "projectPath": "E:\\User\\Desktop\\ejemplos de matriz\\PROGRAMACION\\ejemplo de matriz 1\\vectores.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\User\\Desktop\\vectores\\obj\\",
+      "outputPath": "E:\\User\\Desktop\\ejemplos de matriz\\PROGRAMACION\\ejemplo de matriz 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

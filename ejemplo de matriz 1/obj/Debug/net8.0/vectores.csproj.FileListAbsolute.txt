@@ -12,3 +12,18 @@ E:\User\Desktop\vectores\obj\Debug\net8.0\refint\vectores.dll
 E:\User\Desktop\vectores\obj\Debug\net8.0\vectores.pdb
 E:\User\Desktop\vectores\obj\Debug\net8.0\vectores.genruntimeconfig.cache
 E:\User\Desktop\vectores\obj\Debug\net8.0\ref\vectores.dll
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\bin\Debug\net8.0\vectores.exe
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\bin\Debug\net8.0\vectores.deps.json
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\bin\Debug\net8.0\vectores.runtimeconfig.json
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\bin\Debug\net8.0\vectores.dll
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\bin\Debug\net8.0\vectores.pdb
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\obj\Debug\net8.0\vectores.GeneratedMSBuildEditorConfig.editorconfig
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\obj\Debug\net8.0\vectores.AssemblyInfoInputs.cache
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\obj\Debug\net8.0\vectores.AssemblyInfo.cs
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\obj\Debug\net8.0\vectores.csproj.CoreCompileInputs.cache
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\obj\Debug\net8.0\vectores.sourcelink.json
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\obj\Debug\net8.0\vectores.dll
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\obj\Debug\net8.0\refint\vectores.dll
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\obj\Debug\net8.0\vectores.pdb
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\obj\Debug\net8.0\vectores.genruntimeconfig.cache
+E:\User\Desktop\ejemplos de matriz\PROGRAMACION\ejemplo de matriz 1\obj\Debug\net8.0\ref\vectores.dll

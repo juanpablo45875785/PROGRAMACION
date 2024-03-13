@@ -6,11 +6,22 @@ namespace Matriz
     {
         static void Main(string[] args)
         {
-            /*char[,] matriz = CrearMatrizCaracteres(3, 3);
-            MostrarMatriz(matriz);*/
+           // Solicitar al usuario el tamaño de la matriz
+            //Console.WriteLine("Ingrese el número de filas:");
+            //int filas = int.Parse(Console.ReadLine());
 
-            int[,] numeros = CrearMatrizDiagonal(4, 4);
-            MostrarMatriz(numeros);
+            //Console.WriteLine("Ingrese el número de columnas:");
+           // int columnas = int.Parse(Console.ReadLine());
+
+            // Ejemplo de uso de la función
+            char[,] matriz = CrearMatrizCaracteres(2, 2);
+
+            // Mostrar la matriz
+            Console.WriteLine("Matriz con caracteres:");
+            MostrarMatriz(matriz);
+
+           // int[,] numeros = CrearMatrizDiagonal(4, 4);
+           // MostrarMatriz(numeros);
 
         }
 //----------------------------------------------------------------------------------------------------------------------
@@ -180,31 +191,68 @@ namespace Matriz
                 Console.WriteLine();
             }
         }
+//----------------------------------------------------------------------------------------------------------------------
 
-        static char[,] CrearMatrizCaracteres(int filas, int columnas, char caracter)
+        static string[,] CrearMatrizPalabras(int filas, int columnas)
         {
-            char[,] matrizstring = new char[filas, columnas];
+            string[,] matriz = new string[filas, columnas];
             for (int x = 0; x < filas; x++)
             {
                 for (int y = 0; y < columnas; y++)
-
                 {
-                    matrizstring[x, y] = caracter;
+                    Console.WriteLine("Ingrese una palabra para la posición: ");
+                    matriz[x, y] = Console.ReadLine();
                 }
             }
-            return matrizstring;
+            return matriz;
         }
 
-        static void MostrarMatriz(char[,] matrizstring)
+        static void MostrarMatriz(string[,] matriz)
         {
-            for (int x = 0; x < matrizstring.GetLength(0); x++)
+            Console.Clear();
+            Console.WriteLine("Esta es la matriz llenada de palabras: ");
+            for (int x = 0; x < matriz.GetLength(0); x++)
             {
-                for (int y = 0; y < matrizstring.GetLength(1); y++)
+                for (int y = 0; y < matriz.GetLength(1); y++)
                 {
-                    Console.Write(matrizstring[x, y] + "\t");
+                    Console.Write(matriz[x, y] + "\t");
                 }
                 Console.WriteLine();
             }
         }
+//----------------------------------------------------------------------------------------------------------------------
+        static char[,] CrearMatrizCaracteres(int filas, int columnas)
+        {
+            char[,] matriz = new char[filas, columnas];
+            for (int x = 0; x < filas; x++)
+            {
+                for (int y = 0; y < columnas; y++)
+                {
+                    Console.WriteLine($"Ingrese un caracter letras:");
+                    char caracter;
+                    while (!char.TryParse(Console.ReadLine(), out caracter))
+                    {
+                        Console.WriteLine("Por favor, ingrese un caracter válido:");
+                    }
+                    matriz[x, y] = caracter;
+                }
+            }
+            return matriz;
+        }
+
+        static void MostrarMatriz(char[,] matriz)
+        {
+            Console.Clear();
+            Console.WriteLine("Esta es la matriz llenada de caracteres:");
+            for (int x = 0; x < matriz.GetLength(0); x++)
+            {
+                for (int y = 0; y < matriz.GetLength(1); y++)
+                {
+                    Console.Write(matriz[x, y] + "\t");
+                }
+                Console.WriteLine();
+            }
+        }
+  
     }
 }
