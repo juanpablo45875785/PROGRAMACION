@@ -1,0 +1,15 @@
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\bin\Debug\net8.0\MATRIZ CLASE 1.exe
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\bin\Debug\net8.0\MATRIZ CLASE 1.deps.json
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\bin\Debug\net8.0\MATRIZ CLASE 1.runtimeconfig.json
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\bin\Debug\net8.0\MATRIZ CLASE 1.dll
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\bin\Debug\net8.0\MATRIZ CLASE 1.pdb
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\obj\Debug\net8.0\MATRIZ CLASE 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\obj\Debug\net8.0\MATRIZ CLASE 1.AssemblyInfoInputs.cache
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\obj\Debug\net8.0\MATRIZ CLASE 1.AssemblyInfo.cs
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\obj\Debug\net8.0\MATRIZ CLASE 1.csproj.CoreCompileInputs.cache
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\obj\Debug\net8.0\MATRIZ CLASE 1.sourcelink.json
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\obj\Debug\net8.0\MATRIZ CLASE 1.dll
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\obj\Debug\net8.0\refint\MATRIZ CLASE 1.dll
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\obj\Debug\net8.0\MATRIZ CLASE 1.pdb
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\obj\Debug\net8.0\MATRIZ CLASE 1.genruntimeconfig.cache
+D:\JuanPabloTapeosiChamo\PROGRAMACION\MATRIZ CLASE 1\obj\Debug\net8.0\ref\MATRIZ CLASE 1.dll
