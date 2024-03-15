@@ -1,0 +1,15 @@
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\obj\Debug\net8.0\Simulacro examen.GeneratedMSBuildEditorConfig.editorconfig
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\obj\Debug\net8.0\Simulacro examen.AssemblyInfoInputs.cache
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\obj\Debug\net8.0\Simulacro examen.AssemblyInfo.cs
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\obj\Debug\net8.0\Simulacro examen.csproj.CoreCompileInputs.cache
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\obj\Debug\net8.0\Simulacro examen.sourcelink.json
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\bin\Debug\net8.0\Simulacro examen.exe
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\bin\Debug\net8.0\Simulacro examen.deps.json
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\bin\Debug\net8.0\Simulacro examen.runtimeconfig.json
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\bin\Debug\net8.0\Simulacro examen.dll
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\bin\Debug\net8.0\Simulacro examen.pdb
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\obj\Debug\net8.0\Simulacro examen.dll
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\obj\Debug\net8.0\refint\Simulacro examen.dll
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\obj\Debug\net8.0\Simulacro examen.pdb
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\obj\Debug\net8.0\Simulacro examen.genruntimeconfig.cache
+D:\JuanPabloTapeosiChamo\PROGRAMACION\Simulacro examen\obj\Debug\net8.0\ref\Simulacro examen.dll
