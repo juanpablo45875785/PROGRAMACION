@@ -17,9 +17,9 @@ namespace Simulacro
         Console.WriteLine("La cantidad de palabras en la oración es: " + cantidadPalabras);*/
 
         int[] vector = {4,5,1,2,2,2,2,5,7,1,2};
-        int a=5;
+        int a=4;
         int b=7;
-        Console.WriteLine(ContarElementosEnRango(vector, a, b));
+        Console.WriteLine(SumaElementosEnRango(vector, a, b));
 
 
 
@@ -39,7 +39,7 @@ namespace Simulacro
                 sumaFuera += elemento;
             }
         }
-        return sumaEnRango - sumaFueraRango;
+        return sumaDentro - sumaFuera;
         }
 
         static bool TodosElementosEnRango(int[] vector, int a, int b)
